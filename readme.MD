@@ -14,3 +14,5 @@ Prerequisites
 •	Terraform installed.
 •	AWS CLI (or any cloud provider CLI) configured with credentials.
 •	An SSH key pair.
+
+
